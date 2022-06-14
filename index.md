@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://ucc-labcompu2.github.io/proyecto2022-alfazak/) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](file://wsl.localhost/Ubuntu/home/tiza/Escritorio/Proyecto/proyecto2022-alfazak/index.html) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
