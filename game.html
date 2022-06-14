@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css\style.css">
+  <link rel="icon" href="img/favicon.png" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap" rel="stylesheet">
+  <title>Snakeat | Game</title>
+</head>
+
+<body class="body2">
+    <button type="button" class="back-button" href="index.html">
+      <span class="button__icon">
+        <ion-icon name="chevron-back-circle"></ion-icon>
+      </span>
+      <span onClick="location.href='index.html'" class="button__text">Back</span>
+    </button>
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+    <h1 class="h1-game">Snakeat</h1>
+    <canvas id="game" width="575" height="575"></canvas>
+    <br>
+    <button class="restart-button" type="submit" onClick="refreshPage()">Restart Game</button>
+</body>
+
+  <script src="game.js"></script>
+</html>
