@@ -5,10 +5,7 @@
  <p align="center">
     Laboratorio de Computacion II
     <br />
-    <a href="https://ucc-labcompu2.github.io/proyecto2022-alfazak/"><strong>Ver GithubPages »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/TizianoAl">Alfazak Tiziano</a>    
+    <a href="https://ucc-labcompu2.github.io/proyecto2022-alfazak/"><strong>Ver GithubPages »</strong></a> 
   </p>
 </div>
 <br/>
